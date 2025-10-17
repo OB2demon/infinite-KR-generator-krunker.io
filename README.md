@@ -1,5 +1,6 @@
 # infinite-KR-generator-krunker.io
-infinite KR generator uses game automation generate up 1 million KR a day involved zero account bruting/take overs
+infinite KR generator uses game automation generate up 1 million KR a day 
+involves zero account bruting/take overs
 
 
 Uses a private method/exploit you dont have to crack/hack accounts
